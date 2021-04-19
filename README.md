@@ -11,3 +11,5 @@ Lab - 3 (Strings and list-hands-on practice)
 Lab - 4 (Operation on Tuples and List: hands-on practice)
 
 Lab - 5 (Operation on List: hands-on practice)
+
+Lab - 6 (Operation on dictionary and sets: hands-on practice)
