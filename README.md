@@ -13,3 +13,5 @@ Lab - 4 (Operation on Tuples and List: hands-on practice)
 Lab - 5 (Operation on List: hands-on practice)
 
 Lab - 6 (Operation on dictionary and sets: hands-on practice)
+
+Lab -8 ( UML, Object-Oriented Programming)
