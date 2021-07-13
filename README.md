@@ -17,3 +17,5 @@ Lab - 6 (Operation on dictionary and sets: hands-on practice)
 Lab -7 (Fucntion - Pass by reference : hands-on practice)
 
 Lab -8 ( UML, Object-Oriented Programming)
+
+Lab -9 (Class inheritance & Method overriding hands-on practice)
